@@ -17,6 +17,7 @@
 - [electron-builder打包，NSIS的一些使用总结](https://www.jianshu.com/p/cea38eb17c3a)
 - [duilib设计器 DuiEditor简易教程 (DuiDesigner) （一）](https://blog.csdn.net/mmcanyu/article/details/106758857)
 - [通过nsis和duilib实现自定义安装界面](https://www.cnblogs.com/greaton/p/16350491.html)
+- [DuiLib 基础入门文档+视频教程（基于官方开源代码）](https://github.com/nmgwddj/duilib_tutorial)
 
 #### 视频教程
 - [[DuiLib] 1.DuiLib简易编译、使用教程](https://www.bilibili.com/video/BV1oy4y1t7TK/)
