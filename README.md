@@ -26,6 +26,7 @@
 
 #### 代码
 - [AutoUpdater-nsis](https://github.com/luqiming666/AutoUpdater-nsis)
+- [NIM_Duilib_Framework](https://github.com/netease-im/NIM_Duilib_Framework)
 
 #### 下载
 - [NSIS](https://nsis.sourceforge.io/Download)
