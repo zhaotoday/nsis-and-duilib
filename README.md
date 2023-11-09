@@ -8,6 +8,7 @@
 
 #### 文章
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
+- [安装包UI美化之路-通过nsNiuniuSkin来做Electron程序的打包、发布与升级](https://blog.csdn.net/TragicGuy/article/details/129204895)
 - [Electron程序用Inno Setup或NSIS生成安装包](https://m.dandelioncloud.cn/article/details/1601520379422261250)
 - [NSIS 打包脚本基础](https://www.cnblogs.com/jingmoxukong/p/5033622.html)
 - [NSIS 从入门到编写完整打包脚本](https://juejin.cn/post/7207410405857034301)
