@@ -5,6 +5,7 @@
 - [DuiLib_DuiEditor](https://github.com/xfcanyue/DuiLib_DuiEditor)
 - [Niuniu_NSIS 模板](http://www.leeqia.com/nsniuniuskin/template/)
 - [DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)
+- [NSetup](https://nsetup.cn/)
 
 #### 文章
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
