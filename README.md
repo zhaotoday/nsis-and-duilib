@@ -1,5 +1,6 @@
 #### 官网
 - [NSIS Fans](https://www.nsisfans.com/)
+- [NSIS](https://github.com/kichik/nsis)
 
 #### 工具
 - [DuiLib_DuiEditor](https://github.com/xfcanyue/DuiLib_DuiEditor)
