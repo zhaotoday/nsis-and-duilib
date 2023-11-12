@@ -38,3 +38,6 @@
 - [NSIS](https://nsis.sourceforge.io/Download)
 - [HM NIS Edit](https://nsis.sourceforge.io/HM_NIS_Edit)
 - [Visual Studio](https://visualstudio.microsoft.com/zh-hans/downloads/)  
+
+#### 其他相关知识
+- [Node.js入门之process模块、child_process模块、cluster模块](https://juejin.cn/post/7202809170378522680)
