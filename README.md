@@ -25,6 +25,7 @@
 - [通过nsis和duilib实现自定义安装界面](https://www.cnblogs.com/greaton/p/16350491.html)
 - [DuiLib 基础入门文档+视频教程（基于官方开源代码）](https://github.com/nmgwddj/duilib_tutorial)
 - [Unity打包后发布成安装包（NSIS+Duilib）](https://blog.csdn.net/sinat_34542538/article/details/107862446)
+- [《duilib入门到精通》- duilib概述（duilib视频教程）](https://blog.csdn.net/duisharp/article/details/49803993)
 
 #### 视频教程
 - [[DuiLib] 1.DuiLib简易编译、使用教程](https://www.bilibili.com/video/BV1oy4y1t7TK/)
