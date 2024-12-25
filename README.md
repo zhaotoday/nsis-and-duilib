@@ -32,6 +32,7 @@
 - [[DuiLib] 2.DuiLib制作百度网盘登录界面](https://www.bilibili.com/video/BV1oV411n7aA/)
 
 #### 代码
+- [打包狂魔之NSIS教程](https://blog.csdn.net/china_jeffery/category_9271543.html)
 - [AutoUpdater-nsis](https://github.com/luqiming666/AutoUpdater-nsis)
 - [NIM_Duilib_Framework](https://github.com/netease-im/NIM_Duilib_Framework)
 
