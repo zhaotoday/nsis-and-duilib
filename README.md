@@ -9,6 +9,7 @@
 - [NSetup](https://nsetup.cn/)
 
 #### 文章
+- [NSIS 从入门到编写完整打包脚本——2024/12/02](https://juejin.cn/post/7207410405857034301)
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 - [安装包UI美化之路-nsNiuniuSkin安装包制作可视化配置向导](https://blog.csdn.net/TragicGuy/article/details/130031279)
 - [安装包UI美化之路-Electron打包出界面美观，功能完善的安装包，这三步就够了](https://blog.csdn.net/TragicGuy/article/details/130872674)
