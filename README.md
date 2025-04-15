@@ -8,6 +8,7 @@
 - [DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)
 - [NSetup](https://nsetup.cn/)
 - [node-makensis](https://github.com/idleberg/node-makensis)
+- [7z-build-nsis](https://github.com/myfreeer/7z-build-nsis)
 
 #### 文章
 - [NSIS 从入门到编写完整打包脚本——2024/12/02](https://juejin.cn/post/7207410405857034301)
