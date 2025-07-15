@@ -11,6 +11,7 @@
 - [7z-build-nsis](https://github.com/myfreeer/7z-build-nsis)
 
 #### 文章
+- [NSIS桌面客户端应用打包工具](https://zhuanlan.zhihu.com/p/20794790454)
 - [NSIS 从入门到编写完整打包脚本——2024/12/02](https://juejin.cn/post/7207410405857034301)
 - [NSIS入门教程](https://blog.csdn.net/gyc1307py42568/article/details/129099170)
 - [安装包UI美化之路-nsNiuniuSkin安装包制作可视化配置向导](https://blog.csdn.net/TragicGuy/article/details/130031279)
